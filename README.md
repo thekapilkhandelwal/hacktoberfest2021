@@ -37,4 +37,5 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
         Thank You
     </p>
 </h2>
-<!-- some part is copied from open source repositories. -->
+
+<!-- Disclaimer: some part is copied from open source repositories. -->
